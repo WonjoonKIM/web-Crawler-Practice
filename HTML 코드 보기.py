@@ -1,6 +1,6 @@
 import requests as rq
 
-url="https://www.ygosu.com"
+url="https://www.google.com"
 
 res=rq.get(url)
 
